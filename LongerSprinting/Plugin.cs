@@ -18,6 +18,7 @@ public class LongerSprint : BaseUnityPlugin {
         Logger.LogInfo($"Plugin LongerSprinting is loaded!");
     }
     // This a really bad way of doing this for like 2 reasons. However to make this a quick fix / mod I've done it like this.
+    // TODO: patch the class instead of doing this
     private void FixedUpdate() {
         PlayerController[] components = GameObject.FindObjectsOfType<PlayerController>();
         for (int i = 0; i < components.Length; i++) {
