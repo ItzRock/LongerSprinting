@@ -2,3 +2,4 @@ bin/*
 libs/*
 .vs
 bin
+obj/
