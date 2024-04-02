@@ -3,3 +3,4 @@ libs/*
 .vs
 bin
 obj/
+obj
