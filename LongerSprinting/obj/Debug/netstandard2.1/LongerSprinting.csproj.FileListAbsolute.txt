@@ -1,0 +1,15 @@
+C:\Users\Antho\Desktop\LongerSprinting\LongerSprinting\bin\Debug\netstandard2.1\LongerSprinting.deps.json
+C:\Users\Antho\Desktop\LongerSprinting\LongerSprinting\bin\Debug\netstandard2.1\LongerSprinting.dll
+C:\Users\Antho\Desktop\LongerSprinting\LongerSprinting\bin\Debug\netstandard2.1\LongerSprinting.pdb
+C:\Users\Antho\Desktop\LongerSprinting\LongerSprinting\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Antho\Desktop\LongerSprinting\LongerSprinting\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Users\Antho\Desktop\LongerSprinting\LongerSprinting\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\Antho\Desktop\LongerSprinting\LongerSprinting\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\Antho\Desktop\LongerSprinting\LongerSprinting\obj\Debug\netstandard2.1\LongerSprinting.csproj.AssemblyReference.cache
+C:\Users\Antho\Desktop\LongerSprinting\LongerSprinting\obj\Debug\netstandard2.1\LongerSprinting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antho\Desktop\LongerSprinting\LongerSprinting\obj\Debug\netstandard2.1\LongerSprinting.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\LongerSprinting\LongerSprinting\obj\Debug\netstandard2.1\LongerSprinting.AssemblyInfo.cs
+C:\Users\Antho\Desktop\LongerSprinting\LongerSprinting\obj\Debug\netstandard2.1\LongerSprinting.csproj.CoreCompileInputs.cache
+C:\Users\Antho\Desktop\LongerSprinting\LongerSprinting\obj\Debug\netstandard2.1\LongerSprinting.csproj.CopyComplete
+C:\Users\Antho\Desktop\LongerSprinting\LongerSprinting\obj\Debug\netstandard2.1\LongerSprinting.dll
+C:\Users\Antho\Desktop\LongerSprinting\LongerSprinting\obj\Debug\netstandard2.1\LongerSprinting.pdb
