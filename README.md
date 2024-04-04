@@ -1,7 +1,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Thunderstore Downloads][thunderstore-shield][thunderstore-url]]
+[![Thunderstore Downloads][thunderstore-shield]][thunderstore-url]
 
 # Longer Sprinting
 ![Logo](https://github.com/ItzRock/LongerSprinting/blob/main/icon.png)
