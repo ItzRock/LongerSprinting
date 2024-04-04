@@ -1,7 +1,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
-![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/AnthonyStai/LongerSprinting?style=for-the-badge&logo=thunderstore)
+[![Thunderstore Downloads][https://img.shields.io/thunderstore/dt/AnthonyStai/LongerSprinting?style=for-the-badge&logo=thunderstore][https://thunderstore.io/c/content-warning/p/AnthonyStai/LongerSprinting/]]
 
 # Longer Sprinting
 ![Logo](https://github.com/ItzRock/LongerSprinting/blob/main/icon.png)
