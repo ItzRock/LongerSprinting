@@ -1,7 +1,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Thunderstore Downloads][https://img.shields.io/thunderstore/dt/AnthonyStai/LongerSprinting?style=for-the-badge&logo=thunderstore][https://thunderstore.io/c/content-warning/p/AnthonyStai/LongerSprinting/]]
+[![Thunderstore Downloads][thunderstore-shield][thunderstore-url]]
 
 # Longer Sprinting
 ![Logo](https://github.com/ItzRock/LongerSprinting/blob/main/icon.png)
@@ -41,3 +41,5 @@ Please make sure to update tests as appropriate.
 [issues-url]: https://github.com/ItzRock/LongerSprinting/issues
 [license-shield]: https://img.shields.io/github/license/ItzRock/LongerSprinting.svg?style=for-the-badge
 [license-url]: https://github.com/ItzRock/LongerSprinting/blob/master/LICENSE.txt
+[thunderstore-shield]: https://img.shields.io/thunderstore/dt/AnthonyStai/LongerSprinting?style=for-the-badge&logo=thunderstore
+[thunderstore-url]: https://thunderstore.io/c/content-warning/p/AnthonyStai/LongerSprinting/
