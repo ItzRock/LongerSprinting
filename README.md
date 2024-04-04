@@ -1,7 +1,7 @@
-# Longer 
+# Longer Sprinting
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Stargazers][stars-shield]][stars-url]
 ![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/AnthonyStai/LongerSprinting?style=for-the-badge&logo=thunderstore)
 
 Longer Sprinting is a Content Warning mod which allows you to modify most of the stats of your player.
