@@ -3,6 +3,8 @@ using HarmonyLib;
 using UnityEngine;
 using BepInEx;
 using BepInEx.Configuration;
+
+namespace LongerSprinting;
 [HarmonyPatch(typeof(PlayerController))]
 class PlayerPatch {
     [HarmonyPrefix]

@@ -3,7 +3,9 @@ using BepInEx.Configuration;
 using UnityEngine;
 using HarmonyLib;
 
-[BepInPlugin("LongerSprinting", "LongerSprinting", "1.0.3")]
+namespace LongerSprinting;
+
+[BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
 public class LongerSprint : BaseUnityPlugin {
     internal static ConfigEntry<float>? MaxStamina { get; private set; }
     internal static ConfigEntry<float>? StaminaRegenRate { get; private set; }

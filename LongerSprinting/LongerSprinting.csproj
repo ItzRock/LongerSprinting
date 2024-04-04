@@ -2,7 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-    <Nullable>enable</Nullable>
+    <AssemblyName>LongerSprinting</AssemblyName>
+    <Description>Longer Sprinting allows you to sprint for longer in Content Warning.</Description>
+    <Version>1.1.0</Version>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,4 +17,7 @@
     <PackageReference Include="UnityEngine.Modules" Version="2022.3.10" IncludeAssets="compile" />
   </ItemGroup>
 
+  <ItemGroup Condition="'$(TargetFramework.TrimEnd(`0123456789`))' == 'net'">
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.2" PrivateAssets="all" />
+  </ItemGroup>
 </Project>
