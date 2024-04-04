@@ -1,7 +1,5 @@
-# Longer Sprinting
-[![Contributors][contributors-shield]][contributors-url]
+# Longer 
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 ![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/AnthonyStai/LongerSprinting?style=for-the-badge&logo=thunderstore)
