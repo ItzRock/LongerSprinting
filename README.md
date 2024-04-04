@@ -31,13 +31,13 @@ If you would like to contribute please open a pull request.
 
 Please make sure to update tests as appropriate.
 
-[contributors-shield]: https://img.shields.io/github/contributors/tzRock/LongerSprinting.svg?style=for-the-badge
-[contributors-url]: https://github.com/tzRock/LongerSprinting/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/tzRock/LongerSprinting.svg?style=for-the-badge
-[forks-url]: https://github.com/tzRock/LongerSprinting/network/members
-[stars-shield]: https://img.shields.io/github/stars/tzRock/LongerSprinting.svg?style=for-the-badge
-[stars-url]: https://github.com/tzRock/LongerSprinting/stargazers
-[issues-shield]: https://img.shields.io/github/issues/tzRock/LongerSprinting.svg?style=for-the-badge
-[issues-url]: https://github.com/tzRock/LongerSprinting/issues
-[license-shield]: https://img.shields.io/github/license/tzRock/LongerSprinting.svg?style=for-the-badge
-[license-url]: https://github.com/tzRock/LongerSprinting/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ItzRock/LongerSprinting.svg?style=for-the-badge
+[contributors-url]: https://github.com/ItzRock/LongerSprinting/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ItzRock/LongerSprinting.svg?style=for-the-badge
+[forks-url]: https://github.com/ItzRock/LongerSprinting/network/members
+[stars-shield]: https://img.shields.io/github/stars/ItzRock/LongerSprinting.svg?style=for-the-badge
+[stars-url]: https://github.com/ItzRock/LongerSprinting/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ItzRock/LongerSprinting.svg?style=for-the-badge
+[issues-url]: https://github.com/ItzRock/LongerSprinting/issues
+[license-shield]: https://img.shields.io/github/license/ItzRock/LongerSprinting.svg?style=for-the-badge
+[license-url]: https://github.com/ItzRock/LongerSprinting/blob/master/LICENSE.txt
