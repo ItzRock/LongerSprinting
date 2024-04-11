@@ -4,13 +4,13 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <AssemblyName>LongerSprinting</AssemblyName>
     <Description>Longer Sprinting allows you to sprint for longer in Content Warning.</Description>
-    <Version>1.2.0</Version>
+    <Version>1.2.3</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ContentWarning.Libs" Version="1.7.1.1" />
+    <PackageReference Include="ContentWarning.GameLibs.Steam" Version="0.1.9-a-ngd.0" />
     <PackageReference Include="BepInEx.Analyzers" Version="1.*" PrivateAssets="all" />
     <PackageReference Include="BepInEx.Core" Version="5.4.21" />
     <PackageReference Include="BepInEx.PluginInfoProps" Version="1.*" />

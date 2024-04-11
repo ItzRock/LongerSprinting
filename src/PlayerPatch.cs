@@ -9,8 +9,8 @@ namespace LongerSprinting;
 class PlayerPatch {
     [HarmonyPrefix]
     [HarmonyPatch("Start")]
-    static bool Prefix(Player ___player, PlayerController __instance) {
-        if (___player.IsLocal) {
+    static bool Prefix(PlayerController __instance) {
+        if (__instance.GetComponent<Player>() == Player.localPlayer) {
             __instance.maxStamina = LongerSprint.MaxStamina.Value;
             __instance.staminaRegRate = LongerSprint.StaminaRegenRate.Value;
             __instance.sprintMultiplier = LongerSprint.SprintMultiplyer.Value;
@@ -20,10 +20,10 @@ class PlayerPatch {
     }
     [HarmonyPostfix]
     [HarmonyPatch("Update")]
-    static void UpdatePostFix(Player ___player, PlayerController __instance) {;
-        if (___player.IsLocal) {
-            if (!___player.data.isSprinting && __instance.staminaRegRate != 0f) ___player.data.currentStamina = Math.Clamp((__instance.staminaRegRate * Time.deltaTime) + ___player.data.currentStamina, 0, __instance.maxStamina);
-            if (LongerSprint.IsInfinite.Value) ___player.data.currentStamina = __instance.maxStamina;
+    static void UpdatePostFix(PlayerController __instance) {;
+        if (__instance.GetComponent<Player>() == Player.localPlayer) {
+            if (!Player.localPlayer.data.isSprinting) Player.localPlayer.data.currentStamina = Math.Clamp((__instance.staminaRegRate * Time.deltaTime) + Player.localPlayer.data.currentStamina, 0, __instance.maxStamina);
+            if (LongerSprint.IsInfinite.Value) Player.localPlayer.data.currentStamina = __instance.maxStamina;
         }
     }
 }

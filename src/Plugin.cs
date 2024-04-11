@@ -4,7 +4,7 @@ using UnityEngine;
 using HarmonyLib;
 
 namespace LongerSprinting;
-
+[ContentWarningPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_VERSION, false)]
 [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
 public class LongerSprint : BaseUnityPlugin {
     internal static ConfigEntry<float>? MaxStamina { get; private set; }
